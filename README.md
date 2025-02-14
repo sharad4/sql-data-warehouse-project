@@ -1,7 +1,7 @@
 # Data Warehouse And Analytics Projects
-> Welcome to the **Data Warehouse and Analytics Projects** repository:grey_exclamation: :rocket:
-> This project demonstrate a comprehensive data warehousing and analytics solution, from building a data warehouse to genetrating actionable insights. Designed as a portflio projects
-> highlights industry best practices in data engineering and analytics.
+Welcome to the **Data Warehouse and Analytics Projects** repository:grey_exclamation: :rocket:
+This project demonstrate a comprehensive data warehousing and analytics solution, from building a data warehouse to genetrating actionable insights. Designed as a portflio projects
+highlights industry best practices in data engineering and analytics.
 
 ---
 
